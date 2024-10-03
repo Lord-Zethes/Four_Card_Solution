@@ -26,7 +26,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: (https://your-solution-url.com)](https://www.frontendmentor.io/learning-paths/building-responsive-layouts--z1qCXVqkD/steps/66e4619a5832c087f28b1bc6/challenge/refactor)
 - Live Site URL: https://four-card-solution.vercel.app/
 
 ## My process
